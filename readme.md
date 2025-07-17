@@ -1,10 +1,11 @@
-# 🫀 Heart Disease Prediction System using Machine Learning
+# Heart Disease Prediction System using Machine Learning
 
+> **Submission Date:** June 19, 2025
 This project is a web-based application that predicts the likelihood of heart disease in a patient based on medical parameters. It uses several machine learning algorithms to train and evaluate predictive models. The application is built using Flask for the backend and features a simple frontend using HTML, CSS, and JavaScript.
 
 ---
 
-## 📋 Features
+## Features
 
 - Predicts heart disease based on user input
 - Trained using multiple ML algorithms:
@@ -18,7 +19,7 @@ This project is a web-based application that predicts the likelihood of heart di
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Languages:** Python, JavaScript, HTML, CSS
 - **Framework:** Flask
@@ -27,7 +28,7 @@ This project is a web-based application that predicts the likelihood of heart di
 
 ---
 
-## 📦 Installation & Setup
+## Installation & Setup
 
 Follow the steps below to set up the project locally:
 
