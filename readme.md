@@ -1,6 +1,7 @@
 # Heart Disease Prediction System using Machine Learning
 
-> **Submission Date:** June 19, 2025
+![Project Created](https://img.shields.io/badge/Created-June%2019%2C%202025-blue?style=flat-square)  
+<br> 
 This project is a web-based application that predicts the likelihood of heart disease in a patient based on medical parameters. It uses several machine learning algorithms to train and evaluate predictive models. The application is built using Flask for the backend and features a simple frontend using HTML, CSS, and JavaScript.
 
 ---
